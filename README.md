@@ -58,8 +58,8 @@ Expert in scaling GenAI architectures and defining technical strategy for a broa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlarionov&show_icons=true&theme=radical" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlarionov&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mlarionov&show_icons=true&theme=radical&count_private=true" alt="Michael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlarionov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
