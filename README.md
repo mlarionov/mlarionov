@@ -22,28 +22,18 @@ Expert in scaling GenAI architectures and defining technical strategy for a broa
 
 ---
 
-## 🛠️ Technical Proficiencies
+## 🛠️ Tech Stack & Skills
 
-### **Generative AI & LLMOps**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-- **Frameworks:** Agentic Workflows (LangGraph), RAG Architectures, LiteLLM, MCP.
-- **Orchestration:** Multi-model Orchestration, Prompt Engineering.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,scipy,nlp" alt="ML/DS" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,linux,git,github" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,spark,dbt,redshift" alt="Data" />
+</p>
 
-### **Machine Learning & Stats**
-- **Stats:** Bayesian Inference, Survival Analysis, Time-Series.
-- **Tools:** TensorFlow/Keras, GBDT, Graph Theory (NetworkX), scikit-learn.
-- **NLP/CV:** SpaCy, Hugging Face (BERT), CNNs, OCR Integration (OpenCV).
-
-### **Engineering & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-- **Data:** Spark, DBT, SQL, ETL/ELT Pipelines.
-- **Infra:** Cloud Run, AWS (SageMaker, Glue, Lambda), Docker.
+### **Core Expertise**
+- **Generative AI:** Agentic Workflows (LangGraph), RAG Architectures, Multi-model Orchestration.
+- **Machine Learning:** Bayesian Inference, Survival Analysis, Time-Series, GBDT.
+- **Engineering:** MLOps, ETL/ELT Pipelines, Clinical Informatics (HL7/FHIR).
 
 ---
 
@@ -55,11 +45,10 @@ Expert in scaling GenAI architectures and defining technical strategy for a broa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlarionov&show_icons=true&theme=radical&count_private=true" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlarionov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlarionov&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
